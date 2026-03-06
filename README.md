@@ -23,12 +23,16 @@ This technology is especially useful for improving accessibility for physically 
 - Blink detection for mouse click
 - Hands-free computer interaction
 
-## How to Run the Project
-1. Install Python.
-2. Install required libraries:
-   pip install opencv-python mediapipe pyautogui
-3. Run the Python file:
-   python eyeball_cursor.py
+## How to Run
+
+1. Clone the repository
+2. Install required libraries
+
+pip install -r requirements.txt
+
+3. Run the program
+
+python eyeball_cursor.py
 
 ## Author
 Shivani Jella  
